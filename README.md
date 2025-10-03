@@ -1,5 +1,4 @@
 # 🎯 Proyecto: Sistema de stock
-```ruby
 ## 1) Introducción
 El presente proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Stock** que permita registrar, controlar y administrar productos de manera eficiente, garantizando escalabilidad, mantenibilidad y extensibilidad mediante la aplicación de **patrones de diseño de software**.  
 
@@ -64,7 +63,6 @@ El sistema permitirá:
 - **Base de datos:** MySQL.  
 ## 6) Conclusión
 Este proyecto permitirá implementar un **sistema de gestión de stock sólido y extensible**, aplicando patrones de diseño que garantizan buenas prácticas de programación, flexibilidad ante cambios y capacidad de crecimiento futuro.  
-```
 
 # Integrantes :
 - Bruno Fernandez
