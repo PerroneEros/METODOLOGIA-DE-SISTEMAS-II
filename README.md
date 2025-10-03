@@ -26,7 +26,7 @@ El sistema permitirá:
 - Exportar reportes en formato PDF.  
 - Extender funcionalidades fácilmente (ej: productos con promociones, garantías, envíos especiales).  
 
-## 4) Patrones de diseño aplicados
+## 4) Patrones de diseño a aplicar
 
 1. **Singleton (Base de datos)**  
    - Garantiza una única instancia de conexión a la base de datos.  
@@ -58,17 +58,10 @@ El sistema permitirá:
    - Se ejecuta y queda registrado en un historial.  
    - Posibilidad de implementar *undo/redo* en operaciones de stock.  
 
-## 5) Beneficios de la solución
-- **Escalabilidad:** Nuevos tipos de productos y funcionalidades se pueden integrar fácilmente.  
-- **Mantenibilidad:** Los patrones desacoplan la lógica, facilitando cambios futuros.  
-- **Automatización:** Alertas y reportes simplifican la gestión manual.  
-- **Robustez:** Registro histórico y control centralizado de stock.  
-- **Usabilidad:** Una interfaz clara y simple para los usuarios.  
-
-## 6) Tecnologías sugeridas
+## 5) Tecnologías sugeridas
 - **Lenguaje:** Python.  
 - **Base de datos:** MySQL.  
-## 7) Conclusión
+## 6) Conclusión
 Este proyecto permitirá implementar un **sistema de gestión de stock sólido y extensible**, aplicando patrones de diseño que garantizan buenas prácticas de programación, flexibilidad ante cambios y capacidad de crecimiento futuro.  
 
 
@@ -77,3 +70,4 @@ Este proyecto permitirá implementar un **sistema de gestión de stock sólido y
 - Eros Perrone
 - Franco Devaux
 - Ivo Depari
+
