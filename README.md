@@ -28,32 +28,32 @@ El sistema permitirá:
 
 ## 4) Patrones de diseño a aplicar
 
-1. **Singleton (Base de datos)**  
+1. **Singleton (``Base de datos``)**  
    - Garantiza una única instancia de conexión a la base de datos.  
    - Asegura eficiencia y consistencia en todas las operaciones.  
 
-2. **Factory (Creación de productos)**  
+2. **Factory (``Creación de productos``)**  
    - Permite crear distintos tipos de productos sin modificar el código base.  
    - Facilita la extensibilidad cuando se agregan nuevas categorías.  
 
-3. **Facade (Interfaz simple)**  
+3. **Facade (``Interfaz simple``)**  
    - Expone una interfaz unificada para operaciones complejas del stock.  
 
 4. **Decorator (Extensión de productos)**  
    - Permite añadir funcionalidades sin modificar la clase base.  
 
-5. **Observer (Alertas y notificaciones)**  
+5. **Observer (``Alertas y notificaciones``)**  
    - Observa los cambios en el stock de productos.  
    - Cuando un producto baja del nivel mínimo, notifica automáticamente al usuario (ej: email, panel de alertas).  
 
-6. **Adapter (Exportación de datos a PDF)**  
+6. **Adapter (``Exportación de datos a PDF``)**  
    - Adapta los objetos internos de productos y movimientos de stock para ser interpretados por una librería de generación de PDFs.  
    - Permite compatibilidad con otros sistemas externos en el futuro.  
 
-7. **Builder (Construcción de productos)**  
+7. **Builder (``Construcción de productos``)**  
    - Facilita la creación de productos con múltiples atributos opcionales.  
 
-8. **Command (Pedidos y registro histórico)**  
+8. **Command (``Pedidos y registro histórico``)**  
    - Cada pedido se representa como un comando.  
    - Se ejecuta y queda registrado en un historial.  
    - Posibilidad de implementar *undo/redo* en operaciones de stock.  
