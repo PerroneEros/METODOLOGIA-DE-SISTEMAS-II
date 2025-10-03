@@ -1,4 +1,4 @@
-# Proyecto: Sistema de stock
+# 🎯 Proyecto: Sistema de stock
 ## 1) Introducción
 El presente proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Stock** que permita registrar, controlar y administrar productos de manera eficiente, garantizando escalabilidad, mantenibilidad y extensibilidad mediante la aplicación de **patrones de diseño de software**.  
 
