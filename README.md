@@ -59,7 +59,7 @@ El sistema permitirá:
    - Posibilidad de implementar *undo/redo* en operaciones de stock.  
 
 ## 5) Tecnologías sugeridas
-- **Lenguaje:** ```ruby Python```.  
+- **Lenguaje:** Python.  
 - **Base de datos:** MySQL.  
 ## 6) Conclusión
 Este proyecto permitirá implementar un **sistema de gestión de stock sólido y extensible**, aplicando patrones de diseño que garantizan buenas prácticas de programación, flexibilidad ante cambios y capacidad de crecimiento futuro.  
