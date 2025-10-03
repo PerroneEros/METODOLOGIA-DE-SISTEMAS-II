@@ -65,7 +65,7 @@ El sistema permitirá:
 Este proyecto permitirá implementar un **sistema de gestión de stock sólido y extensible**, aplicando patrones de diseño que garantizan buenas prácticas de programación, flexibilidad ante cambios y capacidad de crecimiento futuro.  
 
 # Integrantes :
-```css
+```java
 - Bruno Fernandez
 - Eros Perrone
 - Franco Devaux
